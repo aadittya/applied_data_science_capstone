@@ -1,2 +1,2 @@
-# applied_data_science_capstone
-final project
+# applied-data-science-capstone
+Coursera/IBM Applied Data Science Capstone
